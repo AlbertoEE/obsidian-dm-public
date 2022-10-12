@@ -10,7 +10,7 @@ worlds:: [[Etune]]
 ## Players
 ```dataview
 TABLE
-FROM "Areas/Gaming/D&D/Private/Players"
+FROM "Private/Players"
 WHERE contains(campaigns, this.file.link)
 ```
 ## Sesiones
@@ -23,7 +23,7 @@ action createNewSession
 
 
 ```dataview
-TABLE FROM "Areas/Gaming/D&D/Public/Sessions"
+TABLE FROM "Public/Sessions"
 WHERE campaign = this.file.link
 ```
 ## NPCs
@@ -34,6 +34,6 @@ action createNewNpc
 ```
 ^button-jg7q
 ```dataview
-TABLE FROM "Areas/Gaming/D&D/Public/NPCs"
+TABLE FROM "Public/NPCs"
 WHERE contains(campaigns, this.file.link)
 ```

@@ -4,7 +4,7 @@ async function createNewScene (tp) {
     const sessionLink = "[[" + tp.file.path(true) + "|" + tp.file.path(true).split("/").pop().replace(".md", "") + "]]"
     let campaign = dataview.page(tp.file.path(true)).campaign
 
-    const folder = app.vault.getAbstractFileByPath("Areas/Gaming/D&D/Private/Scenes")
+    const folder = app.vault.getAbstractFileByPath("Private/Scenes")
     let sceneName = await tp.system.prompt("Enter Scene name: ")
     let file = await tp.file.create_new(tp.file.find_tfile("Scene"), sceneName, false, folder)
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public/Campaigns/Las Niñeras de Ivor.md",
+            "file": "Private/Worlds/Etune.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/Campaigns/Las Niñeras de Ivor.md",
+                "file": "Private/Worlds/Etune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/Campaigns/Las Niñeras de Ivor.md",
+                "file": "Private/Worlds/Etune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/Campaigns/Las Niñeras de Ivor.md"
+                "file": "Private/Worlds/Etune.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "d03b2399b131dc02",
   "lastOpenFiles": [
-    "Public/NPCs/Odivor.md",
-    "Public/NPCs/Freider.md",
-    "Public/Places/Cities/Ulvanor.md",
-    "Public/Sessions/Las-Niñeras-de-Ivor_1.md",
-    "Public/Sessions/Las-Niñeras-de-Ivor_2.md",
-    "Public/Sessions/Las-Niñeras-de-Ivor_3.md",
-    "Templates/Basic.md",
-    "Templates/Person.md",
-    "Templates/Idea.md",
-    "Templates/Book Suggestion.md"
+    "Public/NPCs/asd.md",
+    "Public/Campaigns/x.md",
+    "x_1.md",
+    "Private/Worlds/Etune.md",
+    "Templates/createNewCampaign.md",
+    "Templates/D&D/Session.md",
+    "Templates/D&D/Scene.md",
+    "Templates/D&D/Player.md",
+    "Templates/D&D/Place.md",
+    "Templates/D&D/NPC.md"
   ]
 }

@@ -21,7 +21,7 @@ action createNewScene
 ```
 
 ```dataview
-TABLE FROM "Areas/Gaming/D&D/Private/Scenes"
+TABLE FROM "Private/Scenes"
 WHERE session = this.file.link
 ```
 ## Resumen de la sesión

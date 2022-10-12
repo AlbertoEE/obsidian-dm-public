@@ -3,7 +3,7 @@ async function createNewCampaign (tp) {
     console.log(tp.file.path(true))
     const worldLink = "[[" + tp.file.path(true) + "|" + tp.file.path(true).split("/").pop().replace(".md", "") + "]]"
 
-    const folder = app.vault.getAbstractFileByPath("Areas/Gaming/D&D/Public/Campaigns")
+    const folder = app.vault.getAbstractFileByPath("Public/Campaigns")
     let campaignName = await tp.system.prompt("Enter Campaign name: ")
     let file = await tp.file.create_new(tp.file.find_tfile("Campaign"), campaignName, false, folder)
 

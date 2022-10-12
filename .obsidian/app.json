@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Quick Capture",
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "trashOption": "local",
+  "fileSortOrder": "alphabetical"
+}

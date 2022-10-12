@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "c27fd97881bddec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d03b2399b131dc02",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Public/Campaigns/Las Niñeras de Ivor.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f03bcd1957c6063d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d234b78e0a0cd98c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58b84ebd8496ee3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bee01faa967050b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d7ef74dfeec0c5b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5
+  },
+  "right": {
+    "id": "d70fed2f208bae1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bbf370209666a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e1121bb5be762e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Public/Campaigns/Las Niñeras de Ivor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "808c39e7dcc57fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Public/Campaigns/Las Niñeras de Ivor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c05c73ff92643f3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1506f95711498b74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Public/Campaigns/Las Niñeras de Ivor.md"
+              }
+            }
+          },
+          {
+            "id": "d4df8f979ff0e00b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "884ff6ddd614c5e9",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d03b2399b131dc02",
+  "lastOpenFiles": [
+    "Public/NPCs/Odivor.md",
+    "Public/NPCs/Freider.md",
+    "Public/Places/Cities/Ulvanor.md",
+    "Public/Sessions/Las-Niñeras-de-Ivor_1.md",
+    "Public/Sessions/Las-Niñeras-de-Ivor_2.md",
+    "Public/Sessions/Las-Niñeras-de-Ivor_3.md",
+    "Templates/Basic.md",
+    "Templates/Person.md",
+    "Templates/Idea.md",
+    "Templates/Book Suggestion.md"
+  ]
+}

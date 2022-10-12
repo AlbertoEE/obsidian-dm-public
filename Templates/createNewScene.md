@@ -1,0 +1,1 @@
+<%* tp.user.createNewScene(tp) -%>
